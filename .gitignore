@@ -1,2 +1,6 @@
 *.out
 /*.out
+.class
+.idea
+.exe
+.o
