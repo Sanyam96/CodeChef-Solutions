@@ -3,8 +3,7 @@ using namespace std;
 
 int main(int argc, char const *argv[]){
 
-	int number;
-	cin >> number;
-	cout << number << endl;
-    return 0;
+	int tc;
+	cin >> tc;
+	return 0;
 }
