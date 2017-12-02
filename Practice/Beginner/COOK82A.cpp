@@ -1,3 +1,6 @@
+/*
+	Codechef Solution for COOK82A
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
