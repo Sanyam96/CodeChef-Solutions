@@ -12,20 +12,19 @@ Output
 Output given numbers in non decreasing order.
 Example
 Input:
+	5
+	5
+	3
+	6
+	7
+	1
 
-5
-5
-3
-6
-7
-1
 Output:
-
-1
-3
-5
-6
-7
+	1
+	3
+	5
+	6
+	7
 
 */
 
